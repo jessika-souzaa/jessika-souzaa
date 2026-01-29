@@ -1,9 +1,7 @@
 
 # Olá, eu sou a Jéssika Souza!
 
-Sou *Analista de Qualidade de Software (QA)* com foco em *qualidade como estratégia*, atuando desde a prevenção de falhas até a melhoria contínua dos processos.
-
-Minha paixão é estruturar testes, melhorar fluxos e ajudar times a entregarem software com mais confiança.
+Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar fluxos e garantir entregas com excelência. Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, da observabilidade à melhoria contínua. 
 
 ---
 
