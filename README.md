@@ -9,14 +9,18 @@ Minha paixão é estruturar testes, melhorar fluxos e ajudar times a entregarem 
 
 ## Sobre mim:
 
+
 - 🧪 QA com foco em *qualidade como processo*, atuando desde o planejamento até a execução dos testes  
 - 🔍 Experiência prática em *testes manuais, exploratórios e regressivos*, aplicando boas práticas de QA  
 - 🗂️ Organização e documentação de *casos de teste, planos de teste e relatórios de bugs*  
 - 🐞 Registro de bugs com descrição clara, passos para reprodução e evidências  
 - 📊 Vivência com ferramentas de *gestão de testes e acompanhamento de atividades*  
 - 🌱 Em constante aprendizado, com participação em bootcamp e busca contínua por evolução na área de qualidade
----
 
+
+
+
+---
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -28,10 +32,16 @@ Minha paixão é estruturar testes, melhorar fluxos e ajudar times a entregarem 
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
+
 
 ---
+## 📂 Portfólio e Experiência Prática
 
-## 📚 Iniciativas de Qualidade
+🔗 *Bootcamp Sysmap – Artefatos de QA*  
+Repositório com planos de teste, casos de teste, testes exploratórios e relatórios de bugs desenvolvidos durante o bootcamp.
+
+👉 [Acessar repositório](https://github.com/jessika-souzaa/bootcamp-sysmap-qa)
 
 
 
